@@ -1,0 +1,71 @@
+absl-py @ file:///home/conda/feedstock_root/build_artifacts/absl-py_1615404881292/work
+aiohttp @ file:///D:/bld/aiohttp_1614281086591/work
+astor @ file:///home/conda/feedstock_root/build_artifacts/astor_1593610464257/work
+astunparse @ file:///home/conda/feedstock_root/build_artifacts/astunparse_1610696312422/work
+async-timeout==3.0.1
+attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1605083924122/work
+bidict @ file:///home/conda/feedstock_root/build_artifacts/bidict_1599511855442/work
+blinker==1.4
+brotlipy==0.7.0
+cachetools @ file:///home/conda/feedstock_root/build_artifacts/cachetools_1611555765219/work
+certifi==2020.12.5
+cffi @ file:///D:/bld/cffi_1613414140225/work
+chardet @ file:///D:/bld/chardet_1610093646853/work
+click==7.1.2
+cryptography @ file:///D:/bld/cryptography_1616851649655/work
+dnspython==1.16.0
+ecdsa @ file:///home/conda/feedstock_root/build_artifacts/ecdsa_1605214589050/work
+eventlet @ file:///home/conda/feedstock_root/build_artifacts/eventlet_1614780531305/work
+Flask==1.1.2
+gast @ file:///home/conda/feedstock_root/build_artifacts/gast_1596839682936/work
+google-auth @ file:///home/conda/feedstock_root/build_artifacts/google-auth_1617123880036/work
+google-auth-oauthlib==0.4.1
+google-pasta==0.2.0
+greenlet @ file:///D:/bld/greenlet_1615997685095/work
+grpcio @ file:///D:/bld/grpcio_1617838043636/work
+h5py @ file:///D:/bld/h5py_1617739735319/work
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1593328102638/work
+importlib-metadata @ file:///D:/bld/importlib-metadata_1619012356363/work
+itsdangerous==1.1.0
+Jinja2==2.11.2
+Keras @ file:///home/conda/feedstock_root/build_artifacts/keras_1618861913295/work
+Keras-Applications==1.0.8
+Keras-Preprocessing @ file:///home/conda/feedstock_root/build_artifacts/keras-preprocessing_1610713559828/work
+Markdown @ file:///home/conda/feedstock_root/build_artifacts/markdown_1614595805172/work
+MarkupSafe==1.1.1
+multidict @ file:///D:/bld/multidict_1610319170773/work
+numpy @ file:///D:/bld/numpy_1616933441329/work
+oauthlib==3.0.1
+olefile==0.46
+opt-einsum @ file:///home/conda/feedstock_root/build_artifacts/opt_einsum_1617859230218/work
+Pillow @ file:///C:/ci/pillow_1602770972588/work
+protobuf==3.15.8
+pyasn1==0.4.8
+pyasn1-modules==0.2.7
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
+pycryptodome @ file:///D:/bld/pycryptodome_1612879949399/work
+PyJWT @ file:///home/conda/feedstock_root/build_artifacts/pyjwt_1617199158555/work
+pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1608055815057/work
+pyreadline @ file:///D:/bld/pyreadline_1611175364000/work
+PySocks @ file:///D:/bld/pysocks_1610291742246/work
+python-engineio==3.0.0
+python-socketio==4.3.0
+PyYAML==5.4.1
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1608156231189/work
+requests-oauthlib @ file:///home/conda/feedstock_root/build_artifacts/requests-oauthlib_1595492159598/work
+rsa @ file:///home/conda/feedstock_root/build_artifacts/rsa_1614171254180/work
+scipy @ file:///C:/bld/scipy_1616878843131/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
+tensorboard @ file:///home/conda/feedstock_root/build_artifacts/tensorboard_1610699261066/work/tensorboard-2.4.1-py3-none-any.whl
+tensorboard-plugin-wit @ file:///home/conda/feedstock_root/build_artifacts/tensorboard-plugin-wit_1611075653546/work/tensorboard_plugin_wit-1.8.0-py3-none-any.whl
+tensorflow==2.3.0
+tensorflow-estimator @ file:///home/conda/feedstock_root/build_artifacts/tensorflow-estimator_1610655765755/work/tensorflow_estimator-2.4.0-py2.py3-none-any.whl
+termcolor==1.1.0
+typing-extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1602702424206/work
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1615828766818/work
+Werkzeug==1.0.1
+win-inet-pton @ file:///D:/bld/win_inet_pton_1610147566231/work
+wincertstore==0.2
+wrapt @ file:///D:/bld/wrapt_1610095100080/work
+yarl @ file:///D:/bld/yarl_1610354399983/work
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1614945704755/work
